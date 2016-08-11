@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3c6b23a-8999-4246-9683-18b18451bb97" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doIt.js" afterPath="$PROJECT_DIR$/doIt.js" />
-    </list>
+    <list default="true" id="b3c6b23a-8999-4246-9683-18b18451bb97" name="Default" comment="" />
     <ignored path="tiy-homework-fizz-buzz-javascript.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -37,7 +35,11 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
+              <folding>
+                <marker date="1470837307000" expanded="true" signature="70:73" ph="{...}" />
+                <marker date="1470837307000" expanded="true" signature="112:631" ph="{...}" />
+                <marker date="1470837307000" expanded="true" signature="155:157" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -125,7 +127,7 @@
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tiy-homework-clojure-madlib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hello-clojure-2" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="full.screen.before.presentation.mode" value="false" />
@@ -595,16 +597,16 @@
       <workItem from="1470777350933" duration="7637000" />
       <workItem from="1470793825176" duration="3029000" />
       <workItem from="1470801136160" duration="508000" />
-      <workItem from="1470831843298" duration="2883000" />
+      <workItem from="1470831843298" duration="3671000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14057000" />
+    <option name="totallyTimeSpent" value="14845000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="96" y="23" width="1060" height="729" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -613,7 +615,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907662" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="REPL" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907662" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907662" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -686,7 +688,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1470837307000" expanded="true" signature="70:73" ph="{...}" />
+            <marker date="1470837307000" expanded="true" signature="112:631" ph="{...}" />
+            <marker date="1470837307000" expanded="true" signature="155:157" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -694,7 +700,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1470837307000" expanded="true" signature="70:73" ph="{...}" />
+            <marker date="1470837307000" expanded="true" signature="112:631" ph="{...}" />
+            <marker date="1470837307000" expanded="true" signature="155:157" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -702,7 +712,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1470837307000" expanded="true" signature="70:73" ph="{...}" />
+            <marker date="1470837307000" expanded="true" signature="112:631" ph="{...}" />
+            <marker date="1470837307000" expanded="true" signature="155:157" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -720,7 +734,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1470837307000" expanded="true" signature="70:73" ph="{...}" />
+            <marker date="1470837307000" expanded="true" signature="112:631" ph="{...}" />
+            <marker date="1470837307000" expanded="true" signature="155:157" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
